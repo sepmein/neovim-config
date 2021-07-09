@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/sepmein/dev/working/malaria-one'
+let g:netrw_dirhist_6='/Users/sepmein/dev/working'
+let g:netrw_dirhist_5='/Users/sepmein/dev'
+let g:netrw_dirhist_4='/Users/sepmein'
+let g:netrw_dirhist_3='/Users/sepmein/dev'
+let g:netrw_dirhist_2='/Users/sepmein/dev/working'
+let g:netrw_dirhist_1='/Users/sepmein/dev/working/malaria-one'
+let g:netrw_dirhist_0='/Users/sepmein/dev/working/malaria-one/src/pages'
+let g:netrw_dirhist_9='/Users/sepmein/dev/working/malaria-one/src'
+let g:netrw_dirhist_8='/Users/sepmein/dev/working/malaria-one'
